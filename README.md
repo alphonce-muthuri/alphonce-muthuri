@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @alphonce-muthuri
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🚀 Hi,
+I'm Alphonce, a software developer and DevOps engineer passionate about building scalable web applications. I specialize in Next.js, React, Docker, and Node.js, with a strong focus on full-stack development, automation, and AI-driven solutions.
 
-<!---
-alphonce-muthuri/alphonce-muthuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Tech Stack
+Frontend: Next.js, React, Tailwind CSS, ShadCN, Three.js, Framer Motion
+Backend: Node.js, Prisma, Convex, Firebase, Supabase, API development
+DevOps: Docker, Linux, Git, OTRS, Zabbix
+AI & Automation: LangChain, AI-driven applications
+Other Tools: Clerk (authentication), Windsurf, Bun, npm
+
